@@ -13,3 +13,4 @@ Some TBD items:
 * On the other hand, TS models are typically much smaller than LLMs, so is local inference completely sufficient for our purposes?
 * Even if that's true, is there still virtue in creating an industry-leading, scalable, OSS TS server, i.e., like vLLM for LLMs?
 
+For information about contributing to this repo, code of conduct guidelines, etc., see the [community](https://github.com/granite-cookbooks/community) project.
