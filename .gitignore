@@ -1,0 +1,6 @@
+venv
+.venv
+.venv*
+.env
+.ipynb_checkpoints
+.vscode
