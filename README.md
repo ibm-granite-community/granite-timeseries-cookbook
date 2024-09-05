@@ -112,6 +112,14 @@ of establishing those benchmarks.
 - Expect that over time, recipes will be split, merged, made uniform, deprecated, replace, or deleted.
 - The `ibm-granite-community` org does not host OSS "code" other than what is directly visible in the recipes and simple utility functions.
 
+## Licenses
+
+The Granite Time Series Cookbook's base license is CC BY 4.0.
+
+Code in this repository, including in notebook cells, is licensed under Apache 2.0.
+
+Any example datasets committed to this repository are licensed under CDLA Permissive 2.0.
+
 ## IBM Public Repository Disclosure
 
 All content in these repositories including code has been provided by IBM under the associated open source software license and IBM is under no obligation to provide enhancements, updates, or support. IBM developers produced this code as an open source project (not as an IBM product), and IBM makes no assertions as to the level of quality nor security, and will not be maintaining this code going forward.
