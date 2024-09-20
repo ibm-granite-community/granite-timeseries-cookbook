@@ -1,7 +1,7 @@
-# IBM Granite Timeseries Cookbook
+# IBM Granite Time Series Cookbook
 
-The "Recipes" in the Granite Timeseries Cookbook showcase the capabilities of
-the IBM Granite Timeseries models.
+The "Recipes" in the Granite Time Series Cookbook showcase the capabilities of
+the IBM Granite Time Series models.
 
 ## Contents
 
