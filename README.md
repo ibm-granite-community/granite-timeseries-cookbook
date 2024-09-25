@@ -5,7 +5,8 @@ the IBM Granite Time Series models.
 
 ## Contents
 
-See the [recipes](recipes/)
+1. [Energy Demand Forecasting - Basic Inference](recipes/Time_Series/Time_Series_Getting_Started.ipynb)
+2. [Preprocessing and Performance Evaluation](recipes/Time_Series/Preprocessor_Use_and_Performance_Evaluation.ipynb)
 
 ## Contributing
 
