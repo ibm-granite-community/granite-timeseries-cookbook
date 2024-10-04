@@ -1,0 +1,21 @@
+line-length = 119
+lint.ignore = ["C901", "E501", "E741", "F402", "F823"]
+lint.select = ["C", "E", "F", "I", "W"]
+extend-include = ["*.ipynb"]
+
+[lint.isort]
+lines-after-imports = 2
+known-first-party = ["tsfm_public"]
+
+[format]
+# Like Black, use double quotes for strings.
+quote-style = "double"
+
+# Like Black, indent with spaces, rather than tabs.
+indent-style = "space"
+
+# Like Black, respect magic trailing commas.
+skip-magic-trailing-comma = false
+
+# Like Black, automatically detect the appropriate line ending.
+line-ending = "auto"
