@@ -5,7 +5,6 @@ on:
     branches:
       - main
     paths:
-      - 'recipes/Time_Series/Preprocessor_Use_and_Performance_Evaluation.ipynb'
       - 'recipes/Time_Series/Time_Series_Getting_Started.ipynb'
       - '.github/workflows/vanilla_workflows.yaml'
       - '.github/notebook_lists/vanilla_notebooks.txt'
@@ -13,7 +12,6 @@ on:
     branches:
       - main
     paths:
-      - 'recipes/Time_Series/Preprocessor_Use_and_Performance_Evaluation.ipynb'
       - 'recipes/Time_Series/Time_Series_Getting_Started.ipynb'
       - '.github/workflows/vanilla_workflows.yaml'
       - '.github/notebook_lists/vanilla_notebooks.txt'
