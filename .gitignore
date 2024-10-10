@@ -4,3 +4,4 @@ venv
 .env
 .ipynb_checkpoints
 .vscode
+.idea
