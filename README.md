@@ -6,7 +6,9 @@ the IBM Granite Time Series models.
 ## Contents
 
 1. [Energy Demand Forecasting - Basic Inference](recipes/Time_Series/Time_Series_Getting_Started.ipynb)
-2. [Preprocessing and Performance Evaluation](recipes/Time_Series/Preprocessor_Use_and_Performance_Evaluation.ipynb)
+2. [Energy Demand Forecasting - Preprocessing and Performance Evaluation](recipes/Time_Series/Preprocessor_Use_and_Performance_Evaluation.ipynb)
+3. [Energy Demand Forecasting - Few-shot Fine-tuning](recipes/Time_Series/Few-shot_Finetuning_and_Evaluation.ipynb)
+4. [Bike Sharing Forecasting - Zero-shot, Fine-tuning, and Performance Evaluation](recipes/Time_Series/Bike_Sharing_Finetuning_with_Exogenous.ipynb)
 
 ## Contributing
 
