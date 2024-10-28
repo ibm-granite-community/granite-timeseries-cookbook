@@ -1,0 +1,12 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+# Run `pre-commit install` to activate pre-commit hooks
+repos:
+  - repo: https://github.com/kynan/nbstripout
+    rev: 0.7.1
+    hooks:
+      - id: nbstripout
+        args: [
+          "--extra-keys", "metadata.language_info.version metadata.kernelspec",
+          "--keep-metadata-keys", "cell.metadata.collapsed cell.metadata.scrolled",
+        ]
