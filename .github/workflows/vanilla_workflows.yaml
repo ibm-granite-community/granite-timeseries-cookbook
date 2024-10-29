@@ -45,7 +45,7 @@ jobs:
         env:
           REPLICATE_API_TOKEN: ${{ secrets.REPLICATE_API_TOKEN }}
         run: |
-          notebooks=$(cat .github/notebook_lists/vanilla_notebooks.txt | tr '\n' ' ')  
+          notebooks=$(cat .github/notebook_lists/vanilla_notebooks.txt | grep -v '^#' | tr '\n' ' ')
           for notebook in $notebooks; do 
             echo "Building virtual env"  
             rm -rf .venv
