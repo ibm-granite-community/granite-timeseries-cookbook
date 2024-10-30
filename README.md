@@ -10,6 +10,12 @@ the IBM Granite Time Series models.
 3. [Energy Demand Forecasting - Few-shot Fine-tuning](recipes/Time_Series/Few-shot_Finetuning_and_Evaluation.ipynb)
 4. [Bike Sharing Forecasting - Zero-shot, Fine-tuning, and Performance Evaluation](recipes/Time_Series/Bike_Sharing_Finetuning_with_Exogenous.ipynb)
 
+## Build Status
+
+<a href="https://github.com/ibm-granite-community/granite-timeseries-cookbook/actions/workflows/vanilla_workflows.yaml">
+  <img src="https://github.com/ibm-granite-community/granite-timeseries-cookbook/actions/workflows/vanilla_workflows.yaml/badge.svg" alt="CI for Vanilla Workflows">
+</a>
+
 ## Contributing
 
 For information about contributing to this repo, code of conduct guidelines, etc., see the community [CONTRIBUTING][CG] and [Code of Conduct][CoC] guides.  All commits require DCO-signoff (discussed [here][CG-legal]) _and_ GPG or SSH signing (discussed [here][CG-signing]).  The GitHub recommended code security settings are enforced on this public repository (which include the signing requirement).
