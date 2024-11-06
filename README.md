@@ -12,8 +12,8 @@ the IBM Granite Time Series models.
 
 ## Build Status
 
-<a href="https://github.com/ibm-granite-community/granite-timeseries-cookbook/actions/workflows/vanilla_workflows.yaml">
-  <img src="https://github.com/ibm-granite-community/granite-timeseries-cookbook/actions/workflows/vanilla_workflows.yaml/badge.svg" alt="CI for Vanilla Workflows">
+<a href="https://github.com/ibm-granite-community/granite-timeseries-cookbook/actions/workflows/notebooks.yaml">
+  <img src="https://github.com/ibm-granite-community/granite-timeseries-cookbook/actions/workflows/notebooks.yaml/badge.svg" alt="Testing Notebooks">
 </a>
 
 ## Contributing
