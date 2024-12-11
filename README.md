@@ -9,6 +9,7 @@ the IBM Granite Time Series models.
 2. [Energy Demand Forecasting - Preprocessing and Performance Evaluation](recipes/Time_Series/Preprocessor_Use_and_Performance_Evaluation.ipynb)
 3. [Energy Demand Forecasting - Few-shot Fine-tuning](recipes/Time_Series/Few-shot_Finetuning_and_Evaluation.ipynb)
 4. [Bike Sharing Forecasting - Zero-shot, Fine-tuning, and Performance Evaluation](recipes/Time_Series/Bike_Sharing_Finetuning_with_Exogenous.ipynb)
+5. [Getting Started with Watson X AI SDK](recipes/Time_Series/Getting_Started_with_WatsonX_AI_SDK.ipynb)
 
 ## Build Status
 
