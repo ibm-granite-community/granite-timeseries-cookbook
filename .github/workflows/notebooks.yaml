@@ -74,12 +74,17 @@ jobs:
           STATUS_DESCRIPTION: This check has started...
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+
   vanilla:
     needs:
       - test_workflow_ready
     permissions:
       contents: read
     uses: ibm-granite-community/utils/.github/workflows/test_notebook.yaml@main
+    secrets:
+      WATSONX_APIKEY: ${{ secrets.WATSONX_APIKEY }}
+      WATSONX_PROJECT_ID: ${{ secrets.WATSONX_PROJECT_ID }}
+      WATSONX_URL: ${{ secrets.WATSONX_URL }}
     with:
       notebook-lists: |
         .github/notebook_lists/vanilla_notebooks.txt
