@@ -10,7 +10,8 @@ the IBM Granite Time Series models.
 3. [Energy Demand Forecasting - Few-shot Fine-tuning](recipes/Time_Series/Few-shot_Finetuning_and_Evaluation.ipynb)
 4. [Bike Sharing Forecasting - Zero-shot, Fine-tuning, and Performance Evaluation](recipes/Time_Series/Bike_Sharing_Finetuning_with_Exogenous.ipynb)
 5. [Getting Started with Watson X AI SDK](recipes/Time_Series/Getting_Started_with_WatsonX_AI_SDK.ipynb)
-6. [Retail Forecasting using M5 Sales Data - Few-shot, Fine-tuning, Evaluation, and Visualization](recipes/Retail_Forecasting/M5_retail_sales_forecasting.ipynb)
+6. [Cryptocurrency (ETH) Price Prediction using TTM](recipes/Time_Series/Ethereum_Price_Prediction_Using_TTM.ipynb)
+7. [Retail Forecasting using M5 Sales Data - Few-shot, Fine-tuning, Evaluation, and Visualization](recipes/Retail_Forecasting/M5_retail_sales_forecasting.ipynb)
 
 ## Build Status
 
