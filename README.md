@@ -11,6 +11,8 @@ the IBM Granite Time Series models.
 4. [Bike Sharing Forecasting - Zero-shot, Fine-tuning, and Performance Evaluation](recipes/Time_Series/Bike_Sharing_Finetuning_with_Exogenous.ipynb)
 5. [Getting Started with Watson X AI SDK](recipes/Time_Series/Getting_Started_with_WatsonX_AI_SDK.ipynb)
 6. [Retail Forecasting using M5 Sales Data - Few-shot, Fine-tuning, Evaluation, and Visualization](recipes/Retail_Forecasting/M5_retail_sales_forecasting.ipynb)
+7. [BasicMotions Classification - Fine-tuning and Performance Evaluation](recipes/Classification/Getting_Started_with_TSPulse_Classification.ipynb)
+8. [Bike Sharing missing data Imputation - Zero-Shot](recipes/Imputation/Getting_Started_with_TSPulse_Imputation.ipynb)
 
 ## Build Status
 
