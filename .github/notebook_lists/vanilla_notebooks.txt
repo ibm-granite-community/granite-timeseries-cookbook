@@ -6,3 +6,4 @@ recipes/Time_Series/Getting_Started_with_WatsonX_AI_SDK.ipynb
 recipes/Retail_Forecasting/M5_retail_sales_forecasting.ipynb
 recipes/Classification/Getting_Started_with_TSPulse_Classification.ipynb
 recipes/Imputation/Getting_Started_with_TSPulse_Imputation.ipynb
+recipes/Search/Getting_Started_with_TSPulse_Search.ipynb
