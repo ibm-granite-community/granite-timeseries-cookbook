@@ -5,3 +5,6 @@ venv
 .ipynb_checkpoints
 .vscode
 .idea
+
+# Ignore all dictionary files
+*.dic

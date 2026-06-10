@@ -1,0 +1,7 @@
+CDLA
+DCO
+GPG
+Preprocessing
+SDK
+repo
+signoff
