@@ -1,0 +1,23 @@
+# SPDX-License-Identifier: Apache-2.0
+
+config:
+  line-length: false
+  no-emphasis-as-header: false
+  first-line-heading: false
+  code-block-style: false
+  no-duplicate-header: false
+  single-trailing-newline: false
+  commands-show-output: false
+  ol-prefix: false
+  heading-start-left: false
+  no-duplicate-heading: false
+  no-inline-html: false
+  no-alt-text: false
+  heading-increment: false # temporary
+  no-emphasis-as-heading: false # temporary
+  single-title: false # temporary
+globs:
+  - "**/*.md"
+gitignore: true
+ignores:
+  - ".github/**"

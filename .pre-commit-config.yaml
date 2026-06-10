@@ -1,12 +1,25 @@
+# SPDX-License-Identifier: Apache-2.0
+
 # See https://pre-commit.com for more information
 # See https://pre-commit.com/hooks.html for more hooks
 # Run `pre-commit install` to activate pre-commit hooks
 repos:
   - repo: https://github.com/kynan/nbstripout
-    rev: 0.8.1
+    rev: 0.9.1
     hooks:
       - id: nbstripout
         args: [
           "--extra-keys", "metadata.language_info.version metadata.kernelspec",
           "--keep-metadata-keys", "cell.metadata.collapsed cell.metadata.scrolled",
+        ]
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.22.1
+    hooks:
+    - id: markdownlint-cli2
+  - repo: 'https://github.com/facelessuser/pyspelling.git'
+    rev: '2.12.1'
+    hooks:
+      - id: 'pyspelling'
+        args: [
+          "--config", ".spellcheck.yaml"
         ]
