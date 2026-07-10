@@ -7,7 +7,7 @@ updates:
   - package-ecosystem: "github-actions"
     directories:
     - "/"
-    - ".github/actions"
+    - ".github/actions/python_setup"
     schedule:
       interval: "daily"
     cooldown:
